@@ -4,6 +4,11 @@ This is my 2-days project for proofing that I am fast learner and will take high
 I'm good with React Native but i'll learn if it makes the product more preferable.
 Thank you.
 
+## Disclaimer
+
+The API given is down when i upload this apk to Github.
+Sorry.
+
 A new Flutter project.
 
 ## Getting Started
